@@ -492,8 +492,8 @@ function decrypt() {
 }
 
 function enigmaWindow() {
-window.open("./index.html",'_blank','toolbar=no, menubar=no, location=no, resizable=yes, addressbar=no,  width=800, height=600');
+window.open("./enigma-M3.html",'_blank','toolbar=no, menubar=no, location=no, resizable=yes, addressbar=no,  width=800, height=600');
 }
 function enigmaInstructions() {
-window.open("Doc/enigma-instructions.html",'_blank','toolbar=no, menubar=no, location=no, resizable=yes, addressbar=no,  width=860, height=600');
+window.open("./source/Doc/enigma-instructions.html",'_blank','toolbar=no, menubar=no, location=no, resizable=yes, addressbar=no,  width=860, height=600');
 }
